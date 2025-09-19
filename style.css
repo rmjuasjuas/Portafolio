@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* ====== PROGRESS BAR ====== */
+  .progress {
+    background-color: #e0e0e0;
+    border-radius: 20px;
+    overflow: hidden;
+    height: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .progress-bar {
+    height: 100%;
+    text-align: center;
+    line-height: 20px;   
+    color: white;
+    font-size: 12px;
+    transition: width 0.6s ease;
+  }
+  
+
+  .progress-bar.html {
+    background-color: #000000;   
+  }
+  
+  .progress-bar.js {
+    background-color: #000000;   
+  }
+  
+  .progress-bar.php {
+    background-color: #000000;   
+  }
+  
+  .progress-bar.java {
+    background-color: #000000;   
+  }
+  
+  .progress-bar.python {
+    background-color: #000000;   
+  }
+  
